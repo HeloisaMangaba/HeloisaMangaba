@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/HeloisaMangaba">
-<img height="188em" src="https://github-readme-stats.vercel.app/api?username=HeloisaMangaba&show_icons=true&theme=radical&include_all_commits-true&count_private-true"/> 
-<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaMangaba&layout=compact&theme=radical"/> 
+<img height="188em" src="https://github-readme-stats.vercel.app/api?username=HeloisaMangaba&show_icons=true&theme=great-gatsby&include_all_commits-true&count_private-true"/> 
+<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaMangaba&layout=compact&theme=great-gatsby"/> 
 </div>
 
-
+##
   
 <div> 
    <a href="https://instagram.com/2408_loh" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
