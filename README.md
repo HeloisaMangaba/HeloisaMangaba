@@ -3,7 +3,7 @@
 
 - 📊 Análise de dados
 - 🎨 Design digital
--    Desenvolvimento front-end
+- 👩🏻‍💻 Desenvolvimento front-end
 <!--
 **HeloisaMangaba/HeloisaMangaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
