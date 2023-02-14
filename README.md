@@ -33,3 +33,6 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/2408_loh" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/2408_loh" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
+  
+ ![Snake animation](https://github.com/HeloisaMangaba/HeloisaMangaba/blob/output/github-contribution-grid-snake.svg)
+ 
